@@ -8,22 +8,6 @@ This repository contains solutions for the seven TypeScript problems and two blo
 - `blog-1.md` - Blog on `any` vs `unknown` and type narrowing
 - `blog-2.md` - Blog on the four pillars of OOP in TypeScript
 
-## How to Run
-
-Install TypeScript if you do not already have it:
-
-```bash
-npm install -g typescript
-```
-
-Compile the solutions file:
-
-```bash
-tsc solutions.ts
-```
-
-This produces a `solutions.js` you can run with Node.
-
 ## Problems Covered
 
 1. `filterEvenNumbers` - returns even numbers from a list
